@@ -13,4 +13,5 @@ A sudoku solution must satisfy all of the following rules:<br />
 ## Function:
 
 Code can generate a random Sodoku Board and/or solve a given Sodoku board. This is a python version of a previously made C++ version (https://github.com/tk2558/Sudoku-Generator-and-Solver) <br />
-(Note that there may be multiple solutions to a Sodoku board and the code provides one solution)
+
+*Note that there may be multiple solutions to a Sodoku board and the code provides one solution
